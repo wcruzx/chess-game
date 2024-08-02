@@ -64,7 +64,7 @@ server
 
 Make sure you have Node.js and npm installed on your machine.
 
-# Clone the Repository
+Clone the Repository
 
 ```bash
 git clone this project
