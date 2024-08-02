@@ -43,7 +43,9 @@ src
 │   ├── assets
 ├── src
 │   ├── components
-│       ├── game.actions.ts
+│   ├── App.css
+│   ├── App.js
+│   ├── index.js
 ```
 
 #### Backend
