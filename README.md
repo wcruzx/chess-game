@@ -7,7 +7,6 @@
 - [Technology ](#technology)
 - [Folder Structure](#folder-structure)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 
 ## Description
 
@@ -65,7 +64,7 @@ server
 
 Make sure you have Node.js and npm installed on your machine.
 
-### Clone the Repository
+# Clone the Repository
 
 ```bash
 git clone this project
